@@ -24,7 +24,9 @@ Flask | REST APIs
 
 ### 🤖 Machine Learning
 Scikit-learn | XGBoost | PyTorch  
-NLP | Classification | Feature Engineering  
+NLP | Classification | Feature Engineering | XGBoost | PyTorch | SHAP | Sentence-BERT | spaCy | NLP | PDF Parsing (PyMuPDF)
+
+###AI/LLM Gemini 2.0 Flash, Prompt Engineering, LLM API Integration
 
 ### 👁 Computer Vision
 OpenCV | FaceNet | Cosine Similarity  
