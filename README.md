@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kamal Kishor Dwivedi
 
 🚀 Machine Learning Engineer | AI Developer  
-📍 India  
+📍 Chandigarh,India  
 📧 kamaldwivedi1976@gmail.com  
 
 ---
